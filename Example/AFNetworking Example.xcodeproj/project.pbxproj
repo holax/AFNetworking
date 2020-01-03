@@ -500,7 +500,7 @@
 		29E6F16B1BB9DA2E00A4466C /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0930;
+				LastUpgradeCheck = 1120;
 				TargetAttributes = {
 					291BFDB81BB9E85400FFB029 = {
 						CreatedOnToolsVersion = 7.1;
@@ -525,7 +525,7 @@
 			};
 			buildConfigurationList = 29E6F16E1BB9DA2E00A4466C /* Build configuration list for PBXProject "AFNetworking Example" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
@@ -1082,6 +1082,7 @@
 		29E6F16F1BB9DA2E00A4466C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
@@ -1115,6 +1116,7 @@
 		29E6F1701BB9DA2E00A4466C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
